@@ -1,0 +1,22 @@
+{
+  "name": "japanese-prefectural-capitals",
+  "version": "1.0.0",
+  "description": "API that returns coordinates(latitudes and longitudes) of Japanese prefectural capitals.",
+  "scripts": {
+    "build": "node --max-old-space-size=4096 ./bin/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champierre/japanese-prefectural-capitals.git"
+  },
+  "author": "champierre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/champierre/japanese-prefectural-capitals/issues"
+  },
+  "homepage": "https://github.com/champierre/japanese-prefectural-capitals#readme",
+  "dependencies": {
+    "crawler-request": "^1.2.2"
+  }
+}

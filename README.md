@@ -1,1 +1,1 @@
-# prefectural_capitals
+# japanese-prefectural-capitals
