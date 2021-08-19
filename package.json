@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/champierre/japanese-prefectural-capitals#readme",
   "dependencies": {
-    "crawler-request": "^1.2.2"
+    "pdfreader": "^1.2.10"
   }
 }
