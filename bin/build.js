@@ -3,7 +3,7 @@ const fs = require("fs")
 const https = require('https')
 
 const pdfPath = "https://www.gsi.go.jp/KOKUJYOHO/CENTER/kendata/zenken.pdf"
-const apiFile = "./api/index.json"
+const apiFile = "./docs/index.json"
 const pdfFile = "./data/zenken.pdf"
 
 let prefectures = {}
